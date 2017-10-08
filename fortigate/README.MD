@@ -3,7 +3,7 @@ fortigate
 
 fortigate
 s
-s
+sx
 g
 ss
 ss
