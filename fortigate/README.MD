@@ -4,7 +4,7 @@ fortigate
 fortigate
 s
 sx
-gz
+gzs
 ss
 ss
 d
