@@ -21,7 +21,7 @@
             "value": "no"
              },
         "managerCount": {
-           "value": 1
+           "value": 2
             },
         "managerVMSize": {
             "value": "Standard_DS3"
