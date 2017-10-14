@@ -6,7 +6,7 @@ commit@1 For commit
 commit@1 For commits
 commit@1 For commit
 commit@1 For commit
-commit@1 For commits
+commit@1 For commitsc
 commit@1 For commit
 commit@1 For commit
 commit@1 For commitdDs
