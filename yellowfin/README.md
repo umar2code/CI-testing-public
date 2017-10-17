@@ -1,28 +1,28 @@
+# Test Cases for yellowfin
 
-cmks,dmfl;sad
-asdgfdsklfjalsdsx
-error keyc
-this error do you get if your auth is not correct or grantss expire balajisszz
-sssx
-test yellowfinzaxfxddssdddc
-cxscssdsdxx
-xxcsd sssdcd
-cssxddcdcxcfxxsa
-fssxsssdssxxbxddcxxddxdsdxs
-gglmssxdxs
-yycsssxc
-vvzas
-Pradeep@1dszdss
-umar@1rxx
-umar@7sept
-umar@7sept
-umar@testgain
-umar@testagain
-umar@testagain
-umar@testagain
-umar@testing
-umar@testing
-umar@testing
-umar@testing
-umar@testing
-a
+```
+	Background:
+		Given I can parse "/arm_dist/azuredeploy.json" json
+	Scenario: Key contains a value.
+		When $schema is the key on template file
+		Then Its value should contain 2015-01-01/deploymentTemplate.json
+
+		When parameters.password.value is the key on params file
+		Then Its value should contain yellowfin@123
+    
+    ```
+
+	
+Commits:
+1
+2
+3a
+ss
+3
+ss
+2
+s
+3
+d
+dd
+s

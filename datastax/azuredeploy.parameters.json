@@ -1,18 +1,24 @@
 {
-    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
         "nodeCount": {
-            "value": 3
+            "value": 6
         },
         "vmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_DS2_v2"
         },
         "adminUsername": {
             "value": "datastax"
         },
         "adminPassword": {
-            "value": "foo123!"
+            "value": "Ashpassword123"
+        },
+        "DBPassword": {
+            "value": "Ashpassword123"
+        },
+        "OpsCPassword": {
+            "value": "Ashpassword123"
         }
     }
 }
