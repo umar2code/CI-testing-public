@@ -21,7 +21,7 @@ ss
 3a
 ss
 2s
-sx
+sxx
 3
 d
 dd
