@@ -4,7 +4,7 @@
     "parameters": {
         "ddcLicenseKey": {
             "metadata": {
-                "description": "Upload your Docker Datacenter License Key"
+                "description": "Upload your Docker Datacenter License KEy"
             },
             "type": "secureObject",
             "defaultValue": {
